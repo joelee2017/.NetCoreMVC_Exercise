@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Bz/A9m8JbXBxV2YSXQChgJiJcuVINvttbI9T/z3QPffPYScfHvrbJDZvPYtb9wHAkdg6PA+p9Djf9o8iEkuEFg==",
+  "dgSpecHash": "DP1ixvDoIOCBCCUU8SB/BArax1OoPVZgAUJkyxEvQC7nkBp4moqVQsQzBz1oCtBQ3VsiRh5Arg9shNETVt2Juw==",
   "success": true,
   "projectFilePath": "C:\\Joe\\Project\\.NetCoreMVC_Exercise\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luster\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
@@ -22,7 +23,7 @@
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.1\\microsoft.entityframeworkcore.5.0.1.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.1\\microsoft.entityframeworkcore.abstractions.5.0.1.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.1\\microsoft.entityframeworkcore.analyzers.5.0.1.nupkg.sha512",
-    "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.10\\microsoft.entityframeworkcore.design.3.1.10.nupkg.sha512",
+    "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.1\\microsoft.entityframeworkcore.design.5.0.1.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.1\\microsoft.entityframeworkcore.relational.5.0.1.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.10\\microsoft.entityframeworkcore.sqlite.3.1.10.nupkg.sha512",
     "C:\\Users\\Luster\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.10\\microsoft.entityframeworkcore.sqlite.core.3.1.10.nupkg.sha512",

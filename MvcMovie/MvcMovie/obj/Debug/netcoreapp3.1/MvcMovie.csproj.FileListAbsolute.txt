@@ -169,5 +169,11 @@ C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\ru
 C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Joe\Project\.NetCoreMVC_Exercise\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
