@@ -7,6 +7,7 @@
 
 4. 第4部分 - 將模型新增至 ASP.NET Core MVC 應用程式
 
+<<<<<<< Updated upstream
    移轉過程中注意事項：
 
    ```
@@ -17,3 +18,11 @@
    ```
 
 5. 第5部分 - 使用 ASP.NET Core MVC 應用程式中的資料庫
+=======
+- ​	在移轉過程中需要先確定是否安裝以下兩個組件
+  ​			Microsoft.EntityFrameworkCore
+  ​			Microsoft.EntityFrameworkCore.Infrastructure
+- ​	否則無法使用 <u>Add-Migration InitialCreate</u> 建立資料庫
+
+第5部分 - 使用 ASP.NET Core MVC 應用程式中的資料庫
+>>>>>>> Stashed changes
