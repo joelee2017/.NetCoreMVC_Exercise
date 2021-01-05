@@ -22,3 +22,5 @@
 第7部分 - 將搜尋新增至 ASP.NET Core MVC 應用程式
 
 第8部分 - 將新欄位新增至 ASP.NET Core MVC 應用程式
+
+第9部分 - 將驗證新增至 ASP.NET Core MVC 應用程式
